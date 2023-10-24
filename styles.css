@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	}
+.box{
+	margin:20px;
+	width:200px;
+	height:200px;
+	background-color:cyan;
+}
